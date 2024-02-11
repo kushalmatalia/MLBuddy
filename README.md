@@ -19,3 +19,7 @@ MLBuddy : Your Personalized Machine Learning Study Companion
 1. Adding download functionality to download the entire conversation history in user specified format
 2. Adding functionality to take input in any format ex: pdf, txt, md, word, etc
 3. Adding functionality to even process images
+
+### Demo
+![image](https://github.com/kushalmatalia/MLBuddy/assets/42527900/10e595c9-503f-4d79-be74-d2b1fe076949)
+![image](https://github.com/kushalmatalia/MLBuddy/assets/42527900/be071ec2-93e2-408e-9199-3ad5abb43ec4)
