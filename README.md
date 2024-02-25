@@ -1,5 +1,5 @@
 # MLBuddy 🤖
-MLBuddy : Your Personalized Machine Learning Study Companion
+_MLBuddy_ : Your Personalized Machine Learning Study Companion
 
 The Machine Learning PDF Bot is a Streamlit web application designed to help users extract information from Machine Learning (ML) PDF documents. By uploading a PDF file, users can ask questions about the content of the PDF, and the bot will provide answers based on the text extracted from the document. The bot uses a combination of text processing techniques and machine learning models to understand and answer questions related to the PDF content.
 
@@ -19,31 +19,31 @@ The Machine Learning PDF Bot is a Streamlit web application designed to help use
 
 
 ### Key Features
-PDF Upload: Users can upload a PDF file containing ML content.
+_PDF Upload_: Users can upload a PDF file containing ML content.
 
-Question-Answering: Users can ask questions about the PDF content, and the bot will provide relevant answers.
+_Question-Answering_: Users can ask questions about the PDF content, and the bot will provide relevant answers.
 
-Interactive Chat: The bot maintains a conversation history and displays it in the sidebar for reference.
+_Interactive Chat_: The bot maintains a conversation history and displays it in the sidebar for reference.
 
 ### User Instructions
 (https://mlbuddy.streamlit.app/)
 
-Upload PDF: Click on the "Upload your PDF" button and select a PDF file containing ML content.
+_Upload PDF_: Click on the "Upload your PDF" button and select a PDF file containing ML content.
 
-Ask Question: Enter a question about the PDF content in the text input field under "Question: Ask a question about your PDF:".
+_Ask Question_: Enter a question about the PDF content in the text input field under "Question: Ask a question about your PDF:".
 
-View Answer: The bot will provide an answer based on the content of the PDF.
+_View Answer_: The bot will provide an answer based on the content of the PDF.
 
-Conversation History: The conversation history is displayed in the sidebar for reference.
+_Conversation History_: The conversation history is displayed in the sidebar for reference.
 
 ### Technical Innovations
 The application utilizes several key technologies:
 
-PyPDF2: Used to extract text from PDF files.
+_PyPDF2_: Used to extract text from PDF files.
 
-langchain: A library for natural language processing tasks, including text splitting, embeddings, and question-answering.
+_langchain_: A library for natural language processing tasks, including text splitting, embeddings, and question-answering.
 
-Streamlit: Provides the web interface for the application, allowing for easy interaction with users.
+_Streamlit_: Provides the web interface for the application, allowing for easy interaction with users.
 
 The application leverages Langchain's Question-Answering capabilities, which use OpenAI's large language models (LLMs) to understand and respond to user questions. This integration enables the bot to provide accurate and relevant answers based on the content of the PDF document.
 
@@ -59,10 +59,10 @@ The application leverages Langchain's Question-Answering capabilities, which use
 ### Acknowledgments
 The Machine Learning PDF Bot utilizes the following libraries and resources:
 
-Streamlit: For building the interactive web application.
+_Streamlit_: For building the interactive web application.
 
-PyPDF2: For extracting text from PDF files.
+_PyPDF2_: For extracting text from PDF files.
 
-Langchain: For natural language processing capabilities, including question-answering.
+_Langchain_: For natural language processing capabilities, including question-answering.
 
 The application also acknowledges the use of OpenAI's large language models for powering the question-answering functionality.
