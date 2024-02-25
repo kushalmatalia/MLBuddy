@@ -1,10 +1,10 @@
-langchain==0.0.154
+langchain==0.1.6
 PyPDF2==3.0.1
-python-dotenv==1.0.0
-streamlit==1.18.1
+python-dotenv==1.0.1
+streamlit==1.30.0
 faiss-cpu==1.7.4
-altair<5
-huggingface-hub 
+altair==5.2.0
+huggingface-hub
 InstructorEmbedding==1.0.1
 langchain-community==0.0.19
 langchain-core==0.1.22
