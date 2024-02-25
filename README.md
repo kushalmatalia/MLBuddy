@@ -26,6 +26,8 @@ Question-Answering: Users can ask questions about the PDF content, and the bot w
 Interactive Chat: The bot maintains a conversation history and displays it in the sidebar for reference.
 
 ### User Instructions
+(https://mlbuddy.streamlit.app/)
+
 Upload PDF: Click on the "Upload your PDF" button and select a PDF file containing ML content.
 
 Ask Question: Enter a question about the PDF content in the text input field under "Question: Ask a question about your PDF:".
